@@ -1,0 +1,8 @@
+{
+  "name": "node-java-error-gist",
+  "main": "test.js",
+  "dependencies": {
+    "java": "~0.2.3"
+  },
+  "devDependencies": {}
+}
